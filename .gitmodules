@@ -1,0 +1,18 @@
+[submodule "motor-control"]
+	path = motor-control
+	url = https://github.com/WIT-IEEE-Nugget-Industries-2019/motor-control.git
+[submodule "sensor-reading"]
+	path = sensor-reading
+	url = https://github.com/WIT-IEEE-Nugget-Industries-2019/sensor-reading.git
+[submodule "rovlog"]
+	path = rovlog
+	url = https://github.com/WIT-IEEE-Nugget-Industries-2019/rovlog.git
+[submodule "comms"]
+	path = comms
+	url = https://github.com/WIT-IEEE-Nugget-Industries-2019/comms.git
+[submodule "thruster-mcu"]
+	path = thruster-mcu
+	url = https://github.com/WIT-IEEE-Nugget-Industries-2019/thruster-mcu.git
+[submodule "rov-core"]
+	path = rov-core
+	url = https://github.com/WIT-IEEE-Nugget-Industries-2019/rov-core.git
